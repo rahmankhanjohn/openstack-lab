@@ -1,5 +1,13 @@
 # openstack-lab
 
+![Tests](https://github.com/rahmankhanjohn/openstack-lab/actions/workflows/test.yml/badge.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)
+![Dependencies: 0](https://img.shields.io/badge/dependencies-0-brightgreen.svg)
+![Tests: 7](https://img.shields.io/badge/tests-7%20passing-brightgreen.svg)
+![GitHub stars](https://img.shields.io/github/stars/rahmankhanjohn/openstack-lab?style=social)
+![Last commit](https://img.shields.io/github/last-commit/rahmankhanjohn/openstack-lab)
+
 The free OpenStack path, in scripts.
 
 Every resource that made me competent at OpenStack was free. What separated people who finished from people who bookmarked was the order, and being honest about what each resource is actually good for.
