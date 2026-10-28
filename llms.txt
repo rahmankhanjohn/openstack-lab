@@ -1,0 +1,31 @@
+# openstack-lab
+
+The free OpenStack path, in scripts.
+
+## What it does
+
+Provides scripts for a six-week OpenStack learning path:
+- install-devstack.sh: DevStack sandbox setup
+- install-kolla.sh: Kolla-Ansible production-shaped deployment
+- test_lab_status.py: status checker for what is actually running
+
+## Key files
+
+- test_lab_status.py: status checker (Python, argparse)
+- install-devstack.sh: DevStack installation script
+- install-kolla.sh: Kolla-Ansible installation script
+
+## CLI usage
+
+    python test_lab_status.py [--json]
+
+## Design patterns
+
+- Zero dependencies (stdlib only)
+- MIT license
+- Exit code 0/1 for CI integration
+
+## Related
+
+- Article 19: "OpenStack Without a Training Budget"
+- XERJ Corpus Hub: not yet selected
