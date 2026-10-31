@@ -2,6 +2,7 @@
 
 ![Tests](https://github.com/rahmankhanjohn/openstack-lab/actions/workflows/test.yml/badge.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/rahmankhanjohn/badge.svg)
 ![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![Dependencies: 0](https://img.shields.io/badge/dependencies-0-brightgreen.svg)
 ![Tests: 7](https://img.shields.io/badge/tests-7%20passing-brightgreen.svg)
@@ -24,6 +25,10 @@ This repository holds the scripts for that order: a DevStack sandbox, a Kolla-An
 | 4 | Networking deep dive | Neutron, subnets, routers, floating IPs |
 | 5 | Run a real workload | image in, instance up, volume attached, snapshot taken |
 | 6 | Write up what broke and share it | the community answers logs, not theory |
+
+## Recognition
+
+Indexed on the [XERJ Corpus Hub](https://hub.xerj.org/contributors/rahmankhanjohn) - the open reference memory AI coding agents search before they write code.
 
 ## Requirements
 
